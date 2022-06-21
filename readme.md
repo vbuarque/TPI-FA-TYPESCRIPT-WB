@@ -21,14 +21,14 @@ Atividade relacionada a matéria de **Tecnica de programação** ministrada pelo
 ## Organização do Repositório
 
 Pastas:
->   - 📁 node_modules/            ->    |   Armazena as bibliotecas (dependências) usadas pelo projeto                            |
->   - 📂 src/domain/controllers   ->    |   Código fonte dos controladores (client, dashboard, order, product e service)          |
->   - 📂 src/domain/models        ->    |   Código fonte dos modelos (business, person, client, order, product e service)         |
->   - 📁 src/domain/shared        ->    |   Modelo e utilitários compartilhados, pode ser utilizado em outros locais da aplicação |
->   - 📁 src/domain/shared/utils  ->    |   Código fonte dos utilitários (groupBy, Input, RandomId, Search, ValuesDefault)        |
->   - 📁 src/domain/shared/models ->    |   Modelo compartilhado, que pode ser utilizado em outros locais da aplicação            |
->   - 📁 src/app/main             ->    |   Arquivo responsável por executar a aplicação                                          |
->   - 📁 package.json             ->    |   Arquivo usado para gerenciar as dependências do projeto, scripts e versões            |
+>   - 📁 node_modules/            -> Armazena as bibliotecas (dependências) usadas pelo projeto                            
+>   - 📂 src/domain/controllers   -> Código fonte dos controladores (client, dashboard, order, product e service)          
+>   - 📂 src/domain/models        -> Código fonte dos modelos (business, person, client, order, product e service)         
+>   - 📁 src/domain/shared        -> Modelo e utilitários compartilhados, pode ser utilizado em outros locais da aplicação 
+>   - 📁 src/domain/shared/utils  -> Código fonte dos utilitários (groupBy, Input, RandomId, Search, ValuesDefault)        
+>   - 📁 src/domain/shared/models -> Modelo compartilhado, que pode ser utilizado em outros locais da aplicação            
+>   - 📁 src/app/main             -> Arquivo responsável por executar a aplicação                                          
+>   - 📁 package.json             -> Arquivo usado para gerenciar as dependências do projeto, scripts e versões            
 
 ## Clonando projeto
 
